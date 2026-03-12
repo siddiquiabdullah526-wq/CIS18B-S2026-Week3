@@ -1,5 +1,6 @@
-package edu.norco.cis18b.coffeeshop;
+package edu.norco.cis18b.week3.coffeeshop;
 
+import org.junit.jupiter.api.extension.ExtendWith;
 import org.junit.jupiter.api.Test;
 
 import java.math.BigDecimal;
