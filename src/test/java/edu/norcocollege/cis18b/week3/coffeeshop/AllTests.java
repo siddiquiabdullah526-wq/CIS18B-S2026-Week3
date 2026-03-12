@@ -1,4 +1,4 @@
-package edu.norco.cis18b.coffeeshop;
+package edu.norco.cis18b.week3.coffeeshop;
 
 import org.junit.platform.suite.api.SelectClasses;
 import org.junit.platform.suite.api.Suite;
